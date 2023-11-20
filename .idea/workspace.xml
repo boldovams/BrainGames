@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="665a07e6-1f57-495e-85eb-e96565f7491f" name="Changes" comment="fix mistakes">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/Cli.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/games/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/games/Even.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/games/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/java/org/example/games/Progression.java" afterDir="false" />
-    </list>
+    <list default="true" id="665a07e6-1f57-495e-85eb-e96565f7491f" name="Changes" comment="fix mistakes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/for-m",
@@ -77,8 +58,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700415361829</updated>
-      <workItem from="1700415362965" duration="5904000" />
+      <workItem from="1700415362965" duration="6254000" />
     </task>
+    <task id="LOCAL-00001" summary="fix mistakes">
+      <option name="closed" value="true" />
+      <created>1700421434217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421434217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix mistakes">
+      <option name="closed" value="true" />
+      <created>1700421695497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700421695497</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
