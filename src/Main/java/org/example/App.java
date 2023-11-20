@@ -15,7 +15,7 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         String gameChoice = scanner.nextLine();
         switch (gameChoice){
-            //case "1" -> Cli.askName();
+
             case "1" -> Even.initiateEven();
             case "2" -> Calc.initiateCalc();
             case "3" -> GCD.initiateGCD();
